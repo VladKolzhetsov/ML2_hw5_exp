@@ -363,7 +363,7 @@ model, optimizer_d, optimizer_g = create_model_and_optimizer(
 )
 
 def Read_model():
-    model_name = "/content/drive/MyDrive/MLBD/ML2/sem5/cycle_gan#0(1)_6"
+    model_name = "./cycle_gan#0(1)_6"
 
     checkpoint = torch.load(
         os.path.join("./", f"{model_name}.pt"),
