@@ -1,5 +1,5 @@
-torch
-numpy
-torchvision
-streamlit
-cv2
+torch==2.6.0+cu124
+numpy==2.0.2
+torchvision==0.21.0+cu124
+streamlit==1.44.1
+cv2==4.11.0
