@@ -1,0 +1,6 @@
+torch
+numpy
+torchvision
+streamlit
+cv2
+pandas
